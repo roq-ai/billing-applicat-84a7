@@ -1,0 +1,1482 @@
+[
+  {
+    "payment_history": [
+      {
+        "id": "2abb3623-16e5-4f4e-8291-ba5db9c5323a",
+        "payment_date": "2023-09-09T16:30:37.292Z",
+        "amount_paid": 42180,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-09T17:03:23.153Z",
+        "updated_at": "2023-09-09T11:01:37.419Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "a94b4eac-b3bb-4b64-a2b8-cada776ec575",
+        "payment_date": "2023-09-09T09:28:19.193Z",
+        "amount_paid": 29048,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T09:14:56.271Z",
+        "updated_at": "2023-09-09T00:35:47.519Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "4eca6513-7b9e-414a-8911-f5e93a4fa542",
+        "payment_date": "2023-09-09T01:14:34.822Z",
+        "amount_paid": 10476,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T16:56:46.827Z",
+        "updated_at": "2023-09-09T04:47:10.502Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "26b4933b-596e-4474-ba3f-d3b5743b038e",
+        "payment_date": "2023-09-09T11:38:08.766Z",
+        "amount_paid": 89645,
+        "payment_method": "Cash",
+        "created_at": "2023-09-09T13:38:54.037Z",
+        "updated_at": "2023-09-09T04:07:15.926Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "e713e2ce-f264-4830-b9d5-8848e3eeda70",
+        "payment_date": "2023-09-09T07:59:27.228Z",
+        "amount_paid": 46643,
+        "payment_method": "Check",
+        "created_at": "2023-09-09T00:23:33.259Z",
+        "updated_at": "2023-09-08T20:03:28.790Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "95274aa0-508e-486b-99ae-2d71e1ad6296",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-08T23:25:08.231Z",
+        "due_date": "2023-09-09T16:24:19.795Z",
+        "total_amount": 71200,
+        "created_at": "2023-09-08T21:33:13.408Z",
+        "updated_at": "2023-09-09T04:38:44.513Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "d3b78359-5365-47b8-9622-6892497f78df",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-09T15:20:19.694Z",
+        "due_date": "2023-09-08T20:46:37.785Z",
+        "total_amount": 96839,
+        "created_at": "2023-09-09T01:43:45.034Z",
+        "updated_at": "2023-09-09T15:20:46.060Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "71822380-dedd-473d-b1ff-fb36fde3faff",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-09T03:48:51.690Z",
+        "due_date": "2023-09-08T17:33:03.613Z",
+        "total_amount": 67215,
+        "created_at": "2023-09-08T21:12:34.729Z",
+        "updated_at": "2023-09-09T10:22:53.203Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "75eec850-5a14-4073-883c-5350eff2ccf5",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-08T21:57:56.096Z",
+        "due_date": "2023-09-08T18:52:48.890Z",
+        "total_amount": 8896,
+        "created_at": "2023-09-08T21:18:16.157Z",
+        "updated_at": "2023-09-09T06:46:05.939Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "8e97eec0-7a42-428c-80ed-cb72c87819cb",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-09T04:53:43.676Z",
+        "due_date": "2023-09-09T04:13:35.481Z",
+        "total_amount": 76719,
+        "created_at": "2023-09-08T19:42:01.903Z",
+        "updated_at": "2023-09-08T23:54:17.162Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "432f32bc-37bf-4957-868b-e2653070e56b",
+        "email": "Eudora20@yahoo.com",
+        "firstName": "Luther",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/423.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0a434be7-45a7-4bd7-b22f-ac01f9e07ecd",
+        "email": "Mckayla.Brekke35@yahoo.com",
+        "firstName": "Evans",
+        "lastName": "Stark",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/764.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1f94a352-308c-44a4-9aaf-fa86d2ff6406",
+        "email": "Frieda_Bartoletti@yahoo.com",
+        "firstName": "Monty",
+        "lastName": "Jaskolski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/848.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "aa4b8132-6ee9-470e-8e8c-f4b6221c8876",
+        "email": "Saige_Miller@yahoo.com",
+        "firstName": "Kian",
+        "lastName": "McClure",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2987418",
+        "tenantId": null
+      },
+      {
+        "reference": "d7f85f85-0b65-469c-893d-951e63df67c2",
+        "email": "Carole_Hyatt@gmail.com",
+        "firstName": "Helene",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85667268",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "7ffdcfc5-c9d6-4aec-b77d-7fc518c01148",
+        "payment_date": "2023-09-08T20:50:01.181Z",
+        "amount_paid": 18100,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-08T19:15:01.068Z",
+        "updated_at": "2023-09-09T10:33:55.217Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "6f96ad18-975e-427f-93cf-683c75e4c73a",
+        "payment_date": "2023-09-09T03:33:34.762Z",
+        "amount_paid": 7678,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T00:55:06.624Z",
+        "updated_at": "2023-09-09T16:22:58.675Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "a85c7e1d-54ee-435e-9e76-b3410cb19bd8",
+        "payment_date": "2023-09-09T11:39:45.072Z",
+        "amount_paid": 17530,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T12:28:37.393Z",
+        "updated_at": "2023-09-08T22:37:12.138Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "3b453bd9-40ea-46af-a1e5-1c21253fdfb8",
+        "payment_date": "2023-09-09T09:20:59.893Z",
+        "amount_paid": 30630,
+        "payment_method": "Google Pay",
+        "created_at": "2023-09-09T06:56:36.300Z",
+        "updated_at": "2023-09-08T21:39:11.813Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "f4cdbb6b-d7cd-4cf7-b260-59b989767530",
+        "payment_date": "2023-09-09T12:33:12.161Z",
+        "amount_paid": 11382,
+        "payment_method": "Apple Pay",
+        "created_at": "2023-09-09T12:29:20.096Z",
+        "updated_at": "2023-09-08T20:13:15.520Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "3090a952-2c4d-40da-8a5a-8af8e2a870d0",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-09T10:00:41.134Z",
+        "due_date": "2023-09-09T14:30:54.647Z",
+        "total_amount": 4403,
+        "created_at": "2023-09-09T06:16:34.142Z",
+        "updated_at": "2023-09-09T14:48:34.981Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "886e8559-50a6-424d-89f9-722de4188afc",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-08T23:16:01.067Z",
+        "due_date": "2023-09-09T10:49:16.571Z",
+        "total_amount": 68783,
+        "created_at": "2023-09-09T01:16:07.647Z",
+        "updated_at": "2023-09-09T07:16:57.803Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "479c457c-9160-4a58-8150-b3a75086b01e",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-09T02:59:09.170Z",
+        "due_date": "2023-09-08T18:57:08.445Z",
+        "total_amount": 53799,
+        "created_at": "2023-09-09T13:03:45.281Z",
+        "updated_at": "2023-09-08T23:43:09.714Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "b39a05ba-5eab-45c3-ad95-d96b65ae5f46",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-09T07:27:39.193Z",
+        "due_date": "2023-09-09T04:01:09.279Z",
+        "total_amount": 99253,
+        "created_at": "2023-09-09T04:18:10.025Z",
+        "updated_at": "2023-09-09T04:31:31.838Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "20cbc595-0138-459d-a194-8ef80dcbaa88",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-08T23:52:14.423Z",
+        "due_date": "2023-09-08T23:36:44.771Z",
+        "total_amount": 70437,
+        "created_at": "2023-09-09T05:57:14.391Z",
+        "updated_at": "2023-09-09T16:29:45.784Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "297a5b9a-1f38-4a7c-8fbf-040a515d6633",
+        "email": "Missouri28@hotmail.com",
+        "firstName": "Ernestine",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93013157",
+        "tenantId": null
+      },
+      {
+        "reference": "2c309f6b-23df-4bf9-b6a2-8d2c894af1c9",
+        "email": "Aliyah.Sawayn@gmail.com",
+        "firstName": "Kaitlyn",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/826.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "50e0db01-2f47-4184-be4d-01c6945ff1e4",
+        "email": "Ryleigh_Doyle@gmail.com",
+        "firstName": "Carolanne",
+        "lastName": "Rogahn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/582.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "189d1dc1-e73a-47ba-8716-9f07244fc9cb",
+        "email": "Alessandra.Weber@gmail.com",
+        "firstName": "Andy",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35762765",
+        "tenantId": null
+      },
+      {
+        "reference": "cd5ff1ae-241d-4b07-8a80-1bb0e4e796a0",
+        "email": "Barrett_Rutherford@yahoo.com",
+        "firstName": "Yolanda",
+        "lastName": "Bradtke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/372.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "1ea96c51-0ad5-4eb7-924a-1d8b6a38661d",
+        "payment_date": "2023-09-08T18:54:20.421Z",
+        "amount_paid": 41765,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-08T18:42:38.185Z",
+        "updated_at": "2023-09-09T11:25:02.829Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "70306765-084f-477e-b4c8-dee4df0a85cf",
+        "payment_date": "2023-09-09T07:01:05.651Z",
+        "amount_paid": 41331,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T04:53:21.478Z",
+        "updated_at": "2023-09-09T15:37:14.625Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "6b3462dd-206a-448c-8dcf-ae681685906f",
+        "payment_date": "2023-09-09T14:47:00.388Z",
+        "amount_paid": 75964,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T13:45:37.901Z",
+        "updated_at": "2023-09-09T14:00:18.811Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "471c9d01-190e-46c8-b08c-99df7fc8c151",
+        "payment_date": "2023-09-09T13:50:42.549Z",
+        "amount_paid": 19099,
+        "payment_method": "Cash",
+        "created_at": "2023-09-09T02:52:30.130Z",
+        "updated_at": "2023-09-09T12:35:18.601Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "44b83762-faad-48dc-a4c5-3cad25b14517",
+        "payment_date": "2023-09-09T07:16:44.193Z",
+        "amount_paid": 42104,
+        "payment_method": "Cheque",
+        "created_at": "2023-09-09T02:55:06.222Z",
+        "updated_at": "2023-09-09T03:21:29.447Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "04639fd8-3b96-4c08-a5c7-d6ab1b079bff",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-09T06:23:44.983Z",
+        "due_date": "2023-09-09T10:27:31.785Z",
+        "total_amount": 3174,
+        "created_at": "2023-09-09T10:03:33.662Z",
+        "updated_at": "2023-09-08T23:43:36.824Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "d3043c2f-88a1-4faa-9472-eff458c15f53",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-09T14:35:55.221Z",
+        "due_date": "2023-09-08T18:28:10.150Z",
+        "total_amount": 14126,
+        "created_at": "2023-09-09T02:48:15.106Z",
+        "updated_at": "2023-09-09T06:39:04.791Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "dafabc2a-aeaa-405a-8f9a-be11dd4c148e",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-08T18:03:01.088Z",
+        "due_date": "2023-09-09T04:12:18.942Z",
+        "total_amount": 27068,
+        "created_at": "2023-09-09T10:56:43.418Z",
+        "updated_at": "2023-09-09T00:30:46.425Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "0f4b2758-8465-425e-9004-1462be95ac26",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-09T02:54:27.160Z",
+        "due_date": "2023-09-08T17:45:05.383Z",
+        "total_amount": 39582,
+        "created_at": "2023-09-09T07:06:21.020Z",
+        "updated_at": "2023-09-09T15:02:14.117Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "5e8a7d15-07b5-48d6-afd6-f6e8faa24547",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-09T10:26:55.356Z",
+        "due_date": "2023-09-09T16:50:07.909Z",
+        "total_amount": 33958,
+        "created_at": "2023-09-08T22:17:51.134Z",
+        "updated_at": "2023-09-09T16:44:44.526Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6c6a214c-c39c-4c24-896b-b20f8baaa62b",
+        "email": "Beau83@yahoo.com",
+        "firstName": "Lyda",
+        "lastName": "Johnston-Bogan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/799.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8df54057-3fb1-4592-b2f8-e88edd679604",
+        "email": "Darius60@gmail.com",
+        "firstName": "Kameron",
+        "lastName": "Moore-Brown",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19839680",
+        "tenantId": null
+      },
+      {
+        "reference": "11e15117-9f8c-4cfe-8f3f-103dc99e6f36",
+        "email": "Derrick_Corkery@hotmail.com",
+        "firstName": "Joe",
+        "lastName": "Mills",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54396679",
+        "tenantId": null
+      },
+      {
+        "reference": "69d71f7e-f0a6-4391-9122-4fa7466603bb",
+        "email": "Tommie.Davis58@gmail.com",
+        "firstName": "Issac",
+        "lastName": "Spencer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/486.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f9019e6c-aea9-454c-83a5-10d9dacc1364",
+        "email": "Rhianna.Spinka56@hotmail.com",
+        "firstName": "Shanel",
+        "lastName": "Yost",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49581139",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "bf69da12-964e-474e-a797-879100050344",
+        "payment_date": "2023-09-08T18:05:10.292Z",
+        "amount_paid": 64436,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-09T15:32:45.721Z",
+        "updated_at": "2023-09-08T21:26:15.240Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "1317e334-4f86-451b-bb6c-3df07cd7c0ac",
+        "payment_date": "2023-09-08T22:24:00.640Z",
+        "amount_paid": 46861,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-08T17:56:28.869Z",
+        "updated_at": "2023-09-09T03:34:32.437Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "75787179-5714-4957-a04a-6faf6c501e1e",
+        "payment_date": "2023-09-09T00:05:54.675Z",
+        "amount_paid": 13090,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T01:29:54.464Z",
+        "updated_at": "2023-09-09T12:09:20.003Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "a139e90d-9b71-4518-933b-51560ed883f3",
+        "payment_date": "2023-09-09T11:15:53.879Z",
+        "amount_paid": 81339,
+        "payment_method": "Cash",
+        "created_at": "2023-09-09T01:59:12.886Z",
+        "updated_at": "2023-09-08T22:33:33.025Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "aa49dc61-85c9-4e8f-86ea-302c05e6305b",
+        "payment_date": "2023-09-09T08:16:04.041Z",
+        "amount_paid": 31881,
+        "payment_method": "Cheque",
+        "created_at": "2023-09-09T07:28:31.554Z",
+        "updated_at": "2023-09-09T01:06:54.026Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "c169bb66-4210-4a0d-a775-14535f9230ea",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-09T00:46:48.367Z",
+        "due_date": "2023-09-09T00:56:42.321Z",
+        "total_amount": 88701,
+        "created_at": "2023-09-09T17:04:07.901Z",
+        "updated_at": "2023-09-09T16:00:07.897Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "12ef227f-5c0d-4811-9f98-82c06a343c7a",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-08T21:01:51.221Z",
+        "due_date": "2023-09-09T15:06:14.272Z",
+        "total_amount": 32031,
+        "created_at": "2023-09-09T11:49:37.280Z",
+        "updated_at": "2023-09-09T10:47:53.136Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "d0cfa02f-b40d-49ad-b584-17b71e1c3a52",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-08T18:38:58.209Z",
+        "due_date": "2023-09-09T10:13:14.445Z",
+        "total_amount": 27784,
+        "created_at": "2023-09-08T18:09:15.997Z",
+        "updated_at": "2023-09-09T02:43:42.094Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "e23b9fe4-d6cb-46eb-84f0-759bf9b1b9be",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-09T06:18:38.506Z",
+        "due_date": "2023-09-09T03:00:28.939Z",
+        "total_amount": 26980,
+        "created_at": "2023-09-09T13:00:56.161Z",
+        "updated_at": "2023-09-09T10:25:48.412Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "4059576c-3948-4d87-88b4-986c22a291a6",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-08T17:19:49.197Z",
+        "due_date": "2023-09-09T09:21:59.662Z",
+        "total_amount": 39684,
+        "created_at": "2023-09-09T02:38:30.879Z",
+        "updated_at": "2023-09-09T10:03:13.852Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "510edcd9-3208-4160-b3c4-e1fbe681aba0",
+        "email": "Nicolas88@yahoo.com",
+        "firstName": "Jasen",
+        "lastName": "Padberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/969.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "091c4588-b790-4f66-8d55-914fe89ff3a6",
+        "email": "William44@gmail.com",
+        "firstName": "Madelynn",
+        "lastName": "Terry-Bernhard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/795.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6e428930-0429-410f-808f-5ed0acfffcea",
+        "email": "Lavonne_Dare@hotmail.com",
+        "firstName": "Gretchen",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/663.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "97377345-922d-4932-be4a-3da124221716",
+        "email": "Margaret_Koelpin8@hotmail.com",
+        "firstName": "Lina",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1093.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0d80c0de-ac71-41ee-898f-d6c9fff1d943",
+        "email": "Bridie55@yahoo.com",
+        "firstName": "Jared",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85666346",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "abddf803-e742-4912-8b2f-7eed16333e57",
+        "payment_date": "2023-09-09T00:57:08.720Z",
+        "amount_paid": 69047,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-08T19:37:48.764Z",
+        "updated_at": "2023-09-09T12:10:38.577Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "91034791-feaa-403e-9803-214f8d02982f",
+        "payment_date": "2023-09-08T21:59:56.337Z",
+        "amount_paid": 24735,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T14:23:17.780Z",
+        "updated_at": "2023-09-09T11:37:38.221Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "8906090e-e70e-45ed-9348-1d3d3304434e",
+        "payment_date": "2023-09-08T19:30:38.139Z",
+        "amount_paid": 17200,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T09:58:01.765Z",
+        "updated_at": "2023-09-09T04:15:01.813Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "58e4180a-e804-49d3-92b5-2f7e228dfd3e",
+        "payment_date": "2023-09-08T23:00:27.464Z",
+        "amount_paid": 86417,
+        "payment_method": "Venmo",
+        "created_at": "2023-09-09T10:06:45.609Z",
+        "updated_at": "2023-09-08T23:06:24.694Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "94e8b84c-a0a0-47ff-b47b-0fad6fe46c3d",
+        "payment_date": "2023-09-08T22:16:09.465Z",
+        "amount_paid": 80446,
+        "payment_method": "Cash",
+        "created_at": "2023-09-09T10:03:51.934Z",
+        "updated_at": "2023-09-09T14:52:16.312Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "5165750d-4605-4594-b0a1-355f9a60400a",
+        "invoice_number": "INV001",
+        "invoice_date": "2023-09-09T16:09:55.171Z",
+        "due_date": "2023-09-09T08:55:32.296Z",
+        "total_amount": 75347,
+        "created_at": "2023-09-09T12:06:18.122Z",
+        "updated_at": "2023-09-09T02:52:45.365Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "7d81ee7a-acec-4d8c-83f8-2612ddd402b1",
+        "invoice_number": "INV002",
+        "invoice_date": "2023-09-09T12:01:43.906Z",
+        "due_date": "2023-09-09T07:14:39.895Z",
+        "total_amount": 40849,
+        "created_at": "2023-09-09T05:42:06.748Z",
+        "updated_at": "2023-09-08T23:25:43.482Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "3f735134-1775-420e-bf91-99acf747f1b1",
+        "invoice_number": "INV003",
+        "invoice_date": "2023-09-09T11:20:28.676Z",
+        "due_date": "2023-09-09T04:25:06.610Z",
+        "total_amount": 67273,
+        "created_at": "2023-09-08T21:17:52.589Z",
+        "updated_at": "2023-09-08T17:50:31.470Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "22246709-e3f7-4629-8e1c-60eb62c8e621",
+        "invoice_number": "INV004",
+        "invoice_date": "2023-09-08T20:31:02.860Z",
+        "due_date": "2023-09-09T07:55:44.050Z",
+        "total_amount": 75149,
+        "created_at": "2023-09-09T01:30:15.989Z",
+        "updated_at": "2023-09-09T02:54:28.781Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "09c6d83a-72c6-4d7b-9922-1601e7418b01",
+        "invoice_number": "INV005",
+        "invoice_date": "2023-09-09T09:24:02.118Z",
+        "due_date": "2023-09-09T14:04:42.466Z",
+        "total_amount": 89469,
+        "created_at": "2023-09-09T14:12:38.399Z",
+        "updated_at": "2023-09-09T17:08:01.265Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0bf2cc32-aef0-4f20-82c2-06967a6b66be",
+        "email": "Selina_Weber@hotmail.com",
+        "firstName": "Brandyn",
+        "lastName": "Stamm-Wilkinson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/31.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bf312e91-d893-404e-923f-0abfbd2b5e18",
+        "email": "Titus74@gmail.com",
+        "firstName": "August",
+        "lastName": "Witting",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58976896",
+        "tenantId": null
+      },
+      {
+        "reference": "922de68f-9c5d-4e3b-9740-f55cf47f9add",
+        "email": "Fabian97@yahoo.com",
+        "firstName": "Rickie",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59239419",
+        "tenantId": null
+      },
+      {
+        "reference": "c68c0078-4c2a-496e-a15d-61609a017133",
+        "email": "Cloyd.Boyle@gmail.com",
+        "firstName": "Ova",
+        "lastName": "Treutel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/664.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c0e24ff7-8a1d-474d-9aca-853b458c18fb",
+        "email": "Samanta.Ruecker@yahoo.com",
+        "firstName": "Isabel",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/443.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "883ce2a8-ae3d-4a11-9fb1-0ef668ce9d38",
+        "payment_date": "2023-09-08T22:19:02.009Z",
+        "amount_paid": 92137,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-09T08:08:04.149Z",
+        "updated_at": "2023-09-08T17:22:29.194Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "aeec3cf9-d068-4418-9768-7fe8cd5c73db",
+        "payment_date": "2023-09-09T16:39:31.191Z",
+        "amount_paid": 6614,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T09:46:05.474Z",
+        "updated_at": "2023-09-09T08:50:17.555Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "ee712818-ee27-4a85-8a57-a7d60c4b5321",
+        "payment_date": "2023-09-09T05:51:50.640Z",
+        "amount_paid": 74457,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T00:55:22.744Z",
+        "updated_at": "2023-09-09T05:02:08.867Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "c1e76914-d4d0-423a-9b4f-544a26f8cd6e",
+        "payment_date": "2023-09-09T07:32:02.988Z",
+        "amount_paid": 74140,
+        "payment_method": "Venmo",
+        "created_at": "2023-09-08T22:42:19.801Z",
+        "updated_at": "2023-09-09T15:57:24.730Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "db93d13e-91a5-4a0f-8242-4eb300883f4c",
+        "payment_date": "2023-09-09T14:40:11.254Z",
+        "amount_paid": 51596,
+        "payment_method": "Apple Pay",
+        "created_at": "2023-09-09T04:49:37.313Z",
+        "updated_at": "2023-09-09T10:48:27.037Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "3e2e1ea8-afde-4e61-9bae-09fd4bb90a0b",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-08T20:53:16.647Z",
+        "due_date": "2023-09-09T13:00:39.617Z",
+        "total_amount": 71560,
+        "created_at": "2023-09-09T03:59:31.036Z",
+        "updated_at": "2023-09-08T18:11:04.523Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "16911013-b700-402e-8f57-286e3398a16b",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-09T02:32:14.620Z",
+        "due_date": "2023-09-08T23:05:18.853Z",
+        "total_amount": 16971,
+        "created_at": "2023-09-09T06:34:35.585Z",
+        "updated_at": "2023-09-09T16:23:51.953Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "9ebae578-6f89-4834-8d07-954d9067674e",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-09T08:51:28.851Z",
+        "due_date": "2023-09-08T23:55:18.464Z",
+        "total_amount": 96207,
+        "created_at": "2023-09-09T08:48:46.765Z",
+        "updated_at": "2023-09-09T16:01:17.169Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "db92c18d-c928-4b0d-a44f-0b3ce7cedf43",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-09T03:12:34.409Z",
+        "due_date": "2023-09-08T23:15:18.816Z",
+        "total_amount": 83112,
+        "created_at": "2023-09-09T11:03:17.645Z",
+        "updated_at": "2023-09-09T10:31:15.111Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "0d64ffea-7e50-41e3-80b2-824e8dbaa338",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-09T01:21:05.426Z",
+        "due_date": "2023-09-09T14:54:01.354Z",
+        "total_amount": 53513,
+        "created_at": "2023-09-09T08:26:18.853Z",
+        "updated_at": "2023-09-08T18:12:49.545Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b059dc9c-0816-4c53-8d2c-a175c6121891",
+        "email": "Therese45@gmail.com",
+        "firstName": "Brain",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41296253",
+        "tenantId": null
+      },
+      {
+        "reference": "aacb4ba1-a9ce-4561-a51b-7432d6460c25",
+        "email": "Jaylan48@yahoo.com",
+        "firstName": "Madalyn",
+        "lastName": "Connelly-O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/750.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "08a82bf1-5c07-43b1-b982-48e7ed9cb2d1",
+        "email": "Kaci.Jenkins-Hoppe81@gmail.com",
+        "firstName": "Cielo",
+        "lastName": "Emard",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67052053",
+        "tenantId": null
+      },
+      {
+        "reference": "cf59ea48-1038-4506-a411-7e0b2626d5f2",
+        "email": "Nathanial.Maggio71@gmail.com",
+        "firstName": "Roberto",
+        "lastName": "Johnston",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/964.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0620abb4-dc1a-4c45-a617-3a6b4b54d9c8",
+        "email": "Madonna26@yahoo.com",
+        "firstName": "Era",
+        "lastName": "Kessler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88910078",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "1f8f444d-3d24-4d29-a783-38882f5eb62a",
+        "payment_date": "2023-09-08T23:43:52.917Z",
+        "amount_paid": 14365,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-09T11:52:20.831Z",
+        "updated_at": "2023-09-08T23:11:35.319Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "ac3ae9af-a154-409b-90f9-adfc23039c83",
+        "payment_date": "2023-09-09T14:41:34.369Z",
+        "amount_paid": 34300,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T12:12:13.519Z",
+        "updated_at": "2023-09-09T11:13:32.549Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "1f73c76f-f560-4b26-8f64-1206f1c241be",
+        "payment_date": "2023-09-08T22:59:42.857Z",
+        "amount_paid": 93728,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T02:13:29.044Z",
+        "updated_at": "2023-09-09T06:38:40.808Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "69d6d6b8-b353-4d34-bf4d-c0224c3f7fdb",
+        "payment_date": "2023-09-08T20:57:29.491Z",
+        "amount_paid": 56491,
+        "payment_method": "Venmo",
+        "created_at": "2023-09-09T11:50:36.316Z",
+        "updated_at": "2023-09-09T07:49:22.000Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "7c01baed-99db-4ee4-b67a-66930a3c8e58",
+        "payment_date": "2023-09-09T11:58:13.840Z",
+        "amount_paid": 5383,
+        "payment_method": "Apple Pay",
+        "created_at": "2023-09-09T12:26:20.998Z",
+        "updated_at": "2023-09-09T15:05:51.920Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "acd0e8de-ae6c-490d-81ef-80b95da252a7",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-09T06:48:37.153Z",
+        "due_date": "2023-09-09T11:07:06.754Z",
+        "total_amount": 68184,
+        "created_at": "2023-09-09T13:49:41.645Z",
+        "updated_at": "2023-09-09T08:10:05.811Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "c2a4ee71-b8a7-4020-819e-31cc74dcb017",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-09T17:06:36.530Z",
+        "due_date": "2023-09-09T04:08:46.251Z",
+        "total_amount": 29857,
+        "created_at": "2023-09-09T07:58:57.350Z",
+        "updated_at": "2023-09-09T09:49:11.000Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "220ff3d2-4035-4d9b-a6cc-fc891bab3d26",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-08T20:18:29.391Z",
+        "due_date": "2023-09-09T04:48:00.783Z",
+        "total_amount": 208,
+        "created_at": "2023-09-08T22:54:21.609Z",
+        "updated_at": "2023-09-09T07:47:01.001Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "d51df130-a8fb-4e23-990b-fb3cb382ef08",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-09T07:40:47.392Z",
+        "due_date": "2023-09-08T19:23:55.111Z",
+        "total_amount": 12762,
+        "created_at": "2023-09-08T17:57:11.457Z",
+        "updated_at": "2023-09-08T23:26:29.930Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "7c2098e1-904c-42df-924c-238d7486fa31",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-09T06:49:08.992Z",
+        "due_date": "2023-09-09T00:31:02.601Z",
+        "total_amount": 36281,
+        "created_at": "2023-09-08T17:14:53.185Z",
+        "updated_at": "2023-09-09T07:40:43.555Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "da80931b-4e64-42dd-8510-64372d2a9385",
+        "email": "Rey_Erdman28@yahoo.com",
+        "firstName": "Olen",
+        "lastName": "Lindgren",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68160899",
+        "tenantId": null
+      },
+      {
+        "reference": "5e6f9350-de4c-4b80-8f68-88a5f722b5e8",
+        "email": "Keara_Lehner@hotmail.com",
+        "firstName": "Roy",
+        "lastName": "Macejkovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50009700",
+        "tenantId": null
+      },
+      {
+        "reference": "c7053d3b-56d8-4ce1-90b6-2a88a0c043cf",
+        "email": "Nannie57@hotmail.com",
+        "firstName": "Nathaniel",
+        "lastName": "Miller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97443875",
+        "tenantId": null
+      },
+      {
+        "reference": "dc7967a9-5ef4-41e9-8998-0dac254974a9",
+        "email": "Maye57@hotmail.com",
+        "firstName": "Mariah",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65417154",
+        "tenantId": null
+      },
+      {
+        "reference": "74a7e2d1-61b2-4956-aa29-10d168816dfd",
+        "email": "Graham_Blanda@yahoo.com",
+        "firstName": "Ardith",
+        "lastName": "Blanda",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/817.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "af7f9472-4655-4a8c-903f-9aaea647e203",
+        "payment_date": "2023-09-09T13:50:32.093Z",
+        "amount_paid": 12546,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-08T21:16:32.373Z",
+        "updated_at": "2023-09-08T22:03:53.573Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "cd474ad4-eabd-4350-98c4-bfb9f1f15891",
+        "payment_date": "2023-09-09T10:48:07.237Z",
+        "amount_paid": 48131,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T12:28:52.087Z",
+        "updated_at": "2023-09-09T03:29:14.745Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "bdc526a0-739d-4771-8b2b-90cafd19af88",
+        "payment_date": "2023-09-09T04:51:21.339Z",
+        "amount_paid": 74748,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-08T18:57:09.697Z",
+        "updated_at": "2023-09-09T15:06:32.392Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "b7b03b2b-0de8-47d8-ab6a-2beccd83feb4",
+        "payment_date": "2023-09-08T18:23:00.633Z",
+        "amount_paid": 27785,
+        "payment_method": "Venmo",
+        "created_at": "2023-09-09T09:57:48.253Z",
+        "updated_at": "2023-09-08T17:29:15.662Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "af07d768-deaf-4434-9429-54e315a6850e",
+        "payment_date": "2023-09-09T11:51:50.980Z",
+        "amount_paid": 78884,
+        "payment_method": "Apple Pay",
+        "created_at": "2023-09-08T21:35:35.417Z",
+        "updated_at": "2023-09-08T18:24:33.665Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "be043702-09a6-48b2-9dc1-0cfe52fd18cb",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-08T22:32:26.713Z",
+        "due_date": "2023-09-09T08:52:31.548Z",
+        "total_amount": 60566,
+        "created_at": "2023-09-09T05:43:40.721Z",
+        "updated_at": "2023-09-09T01:54:35.733Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "6d729acb-dafe-4b1b-a3c0-41db7a4e91ce",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-09T04:51:39.356Z",
+        "due_date": "2023-09-09T05:28:58.419Z",
+        "total_amount": 21966,
+        "created_at": "2023-09-09T02:56:03.044Z",
+        "updated_at": "2023-09-09T11:11:48.535Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "92e40ff1-652c-4fce-8e65-7b79046fb4aa",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-09T12:26:08.602Z",
+        "due_date": "2023-09-09T15:20:36.628Z",
+        "total_amount": 62887,
+        "created_at": "2023-09-09T02:53:35.397Z",
+        "updated_at": "2023-09-09T05:05:37.053Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "f5c7dacc-45bb-451c-bbf8-43f3fcaf97e7",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-08T21:15:08.354Z",
+        "due_date": "2023-09-09T09:43:11.298Z",
+        "total_amount": 28283,
+        "created_at": "2023-09-09T04:11:55.837Z",
+        "updated_at": "2023-09-09T14:45:41.455Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "2db00889-5335-45f5-93b2-415130e6fe9a",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-09T01:31:56.869Z",
+        "due_date": "2023-09-09T10:40:52.726Z",
+        "total_amount": 99763,
+        "created_at": "2023-09-09T14:02:05.404Z",
+        "updated_at": "2023-09-09T09:26:46.623Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c5429608-b3fb-42c0-88a9-549718a50e5b",
+        "email": "Ashlee_DAmore@hotmail.com",
+        "firstName": "Jordy",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8332366",
+        "tenantId": null
+      },
+      {
+        "reference": "fed41c51-79ab-4306-9277-baf3787c1da4",
+        "email": "Nona99@yahoo.com",
+        "firstName": "Jairo",
+        "lastName": "Von",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14190329",
+        "tenantId": null
+      },
+      {
+        "reference": "04d5aa52-8486-43b9-b466-3d6a88aad15b",
+        "email": "Yvonne_Reichert@yahoo.com",
+        "firstName": "Cristopher",
+        "lastName": "Hills",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88586673",
+        "tenantId": null
+      },
+      {
+        "reference": "566014b4-a93e-4b8b-8f33-48e916e41820",
+        "email": "Eula17@hotmail.com",
+        "firstName": "Imani",
+        "lastName": "Jast",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/580.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c2bdd91d-f949-4d4b-b81c-830b64d6ea70",
+        "email": "Jakayla.Hoeger77@yahoo.com",
+        "firstName": "Arch",
+        "lastName": "Schumm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66449365",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "914851d9-825b-47e5-b640-44d0a06e06ef",
+        "payment_date": "2023-09-09T11:55:08.552Z",
+        "amount_paid": 24814,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-09T04:59:11.602Z",
+        "updated_at": "2023-09-08T23:38:34.521Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "139bc1a6-414e-422b-8be9-339e48a13e65",
+        "payment_date": "2023-09-09T13:39:44.707Z",
+        "amount_paid": 33097,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T11:17:55.838Z",
+        "updated_at": "2023-09-09T05:35:42.574Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "dd51cec1-277e-4bca-b199-e838cb7443b8",
+        "payment_date": "2023-09-08T20:17:39.478Z",
+        "amount_paid": 7216,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T16:18:24.850Z",
+        "updated_at": "2023-09-09T12:58:34.613Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "716e2c61-2e8d-47f1-9c92-85ce712feaa6",
+        "payment_date": "2023-09-09T06:13:46.282Z",
+        "amount_paid": 6535,
+        "payment_method": "Cash",
+        "created_at": "2023-09-09T02:35:14.644Z",
+        "updated_at": "2023-09-09T15:28:48.921Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "7d2c78ae-5efd-4e9f-ac91-0260263ff389",
+        "payment_date": "2023-09-09T13:52:21.054Z",
+        "amount_paid": 2232,
+        "payment_method": "Check",
+        "created_at": "2023-09-08T21:02:08.555Z",
+        "updated_at": "2023-09-09T06:03:13.034Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "b1fbf5e6-02a7-4d7b-b553-f731e34637fc",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-09T03:26:07.798Z",
+        "due_date": "2023-09-09T02:44:50.389Z",
+        "total_amount": 80076,
+        "created_at": "2023-09-08T20:46:24.508Z",
+        "updated_at": "2023-09-09T00:54:26.733Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "3fa428b0-bbb5-4e0f-8ae4-04bb62ebea11",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-09T04:09:30.602Z",
+        "due_date": "2023-09-09T14:55:04.707Z",
+        "total_amount": 58477,
+        "created_at": "2023-09-08T22:41:26.200Z",
+        "updated_at": "2023-09-09T04:55:46.058Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "afe763f9-72db-479d-a703-c7f6000268d0",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-09T05:46:02.023Z",
+        "due_date": "2023-09-09T13:53:07.532Z",
+        "total_amount": 76623,
+        "created_at": "2023-09-09T07:23:37.946Z",
+        "updated_at": "2023-09-09T14:37:32.092Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "0368b417-443c-4728-9456-6b0ad753ba9a",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-09T03:43:15.638Z",
+        "due_date": "2023-09-09T12:01:54.956Z",
+        "total_amount": 88768,
+        "created_at": "2023-09-09T11:40:41.777Z",
+        "updated_at": "2023-09-08T20:29:52.476Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "01aa1958-2091-4131-a359-d62884aacf3e",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-09T15:17:08.825Z",
+        "due_date": "2023-09-09T06:56:24.074Z",
+        "total_amount": 46562,
+        "created_at": "2023-09-09T03:50:57.796Z",
+        "updated_at": "2023-09-09T08:41:50.417Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c806b30f-ccbd-45c2-99b3-f580f6e8fa7f",
+        "email": "Zoey33@yahoo.com",
+        "firstName": "Elvie",
+        "lastName": "Stark",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/856.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d93b3af1-2ef5-403f-bb92-0199825ab378",
+        "email": "Coleman.Pagac@hotmail.com",
+        "firstName": "Mathilde",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69256509",
+        "tenantId": null
+      },
+      {
+        "reference": "61b4c643-6604-4aac-b59f-d555e2563436",
+        "email": "Isabella16@yahoo.com",
+        "firstName": "Jazmyn",
+        "lastName": "Braun",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36261182",
+        "tenantId": null
+      },
+      {
+        "reference": "f65c15fc-fa55-4ef9-bcf5-91a36e2adb24",
+        "email": "Grace.Cremin8@hotmail.com",
+        "firstName": "Alessandro",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1013.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e7217717-7373-468c-bf8b-1f228e01d472",
+        "email": "Lisa.Mann@hotmail.com",
+        "firstName": "Clementina",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60502144",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "payment_history": [
+      {
+        "id": "8f5d6501-9031-44a5-b8df-b4bcd02297d1",
+        "payment_date": "2023-09-09T03:47:40.102Z",
+        "amount_paid": 11019,
+        "payment_method": "Credit Card",
+        "created_at": "2023-09-09T12:09:23.059Z",
+        "updated_at": "2023-09-09T06:48:12.682Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "daf2eb7c-9380-48c6-91ea-5083de972106",
+        "payment_date": "2023-09-09T04:07:28.035Z",
+        "amount_paid": 92587,
+        "payment_method": "PayPal",
+        "created_at": "2023-09-09T13:40:53.423Z",
+        "updated_at": "2023-09-09T08:23:27.047Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "2319d29b-323f-4914-ae35-adf0ab3883ad",
+        "payment_date": "2023-09-09T08:40:59.439Z",
+        "amount_paid": 99835,
+        "payment_method": "Bank Transfer",
+        "created_at": "2023-09-09T01:14:14.347Z",
+        "updated_at": "2023-09-09T01:51:17.217Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "727b3c75-e794-47fe-93ca-7e2cb01137e4",
+        "payment_date": "2023-09-09T07:56:46.159Z",
+        "amount_paid": 80441,
+        "payment_method": "Cash",
+        "created_at": "2023-09-09T14:17:26.625Z",
+        "updated_at": "2023-09-08T18:42:22.105Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "7b89819e-26ee-4a08-873b-899d4f62bcbd",
+        "payment_date": "2023-09-09T04:31:00.607Z",
+        "amount_paid": 25420,
+        "payment_method": "Check",
+        "created_at": "2023-09-08T22:22:12.776Z",
+        "updated_at": "2023-09-09T15:46:12.717Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "invoice": [
+      {
+        "id": "28f379ea-4ca5-4819-8424-5167800c4089",
+        "invoice_number": "INV-001",
+        "invoice_date": "2023-09-09T10:01:10.119Z",
+        "due_date": "2023-09-09T08:28:40.189Z",
+        "total_amount": 59066,
+        "created_at": "2023-09-09T00:09:00.414Z",
+        "updated_at": "2023-09-09T04:36:56.200Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "4842e983-b676-4700-9bc4-ba2525e1bc03",
+        "invoice_number": "INV-002",
+        "invoice_date": "2023-09-09T10:57:20.594Z",
+        "due_date": "2023-09-08T17:38:46.906Z",
+        "total_amount": 94549,
+        "created_at": "2023-09-09T00:06:38.218Z",
+        "updated_at": "2023-09-08T18:02:26.295Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "82be7c8a-88c0-4033-934d-15cb8716013a",
+        "invoice_number": "INV-003",
+        "invoice_date": "2023-09-09T17:08:13.081Z",
+        "due_date": "2023-09-08T23:39:41.844Z",
+        "total_amount": 97090,
+        "created_at": "2023-09-09T17:03:38.215Z",
+        "updated_at": "2023-09-09T14:42:36.392Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "c283409d-5d7c-45a1-b378-9de7cfd901a3",
+        "invoice_number": "INV-004",
+        "invoice_date": "2023-09-09T07:53:47.646Z",
+        "due_date": "2023-09-09T17:11:21.215Z",
+        "total_amount": 2780,
+        "created_at": "2023-09-08T22:33:44.125Z",
+        "updated_at": "2023-09-08T20:10:43.245Z",
+        "client_id": "main_entity_pk"
+      },
+      {
+        "id": "cb79edd3-95fa-4242-8fba-bbccc130bafa",
+        "invoice_number": "INV-005",
+        "invoice_date": "2023-09-08T20:29:53.462Z",
+        "due_date": "2023-09-09T16:14:42.779Z",
+        "total_amount": 68356,
+        "created_at": "2023-09-09T02:41:14.223Z",
+        "updated_at": "2023-09-09T16:50:55.092Z",
+        "client_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cfe6aaa1-c5c5-4f16-ab43-0c3a27d72c15",
+        "email": "Madilyn19@yahoo.com",
+        "firstName": "Verna",
+        "lastName": "Pfeffer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/905.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b65b2467-ceff-4f8b-a891-682f4f8a2760",
+        "email": "Madie.Grant38@hotmail.com",
+        "firstName": "Waylon",
+        "lastName": "Treutel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65191747",
+        "tenantId": null
+      },
+      {
+        "reference": "5460dcc8-2f94-480f-9a67-7386a46ff730",
+        "email": "Henri_Rutherford-Koelpin@hotmail.com",
+        "firstName": "Aubree",
+        "lastName": "Barton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90205345",
+        "tenantId": null
+      },
+      {
+        "reference": "f1340582-d9ac-4d7d-947e-7bbd452e8896",
+        "email": "Kaylee.Hilll@gmail.com",
+        "firstName": "Braden",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1190.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "385eb7b2-de16-4dc6-8ed8-4c3b0c829886",
+        "email": "Dasia49@hotmail.com",
+        "firstName": "Reynold",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51008612",
+        "tenantId": null
+      }
+    ]
+  }
+]
